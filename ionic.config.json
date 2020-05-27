@@ -1,0 +1,7 @@
+{
+  "name": "PEapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
